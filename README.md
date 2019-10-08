@@ -1,2 +1,2 @@
 # coursera
-programming assignments
+Andrew Ng Deep Learning programming assignments
